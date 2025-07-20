@@ -17,5 +17,6 @@ I have learned about:
 * Ingection
 
 Completed the EDA assignment
+<img width="1155" height="693" alt="EDA Dashboard" src="https://github.com/user-attachments/assets/26a80071-2cb7-411c-9945-7c52bce7d4f9" />
 
 
